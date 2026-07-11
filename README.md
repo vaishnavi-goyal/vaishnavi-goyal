@@ -1,4 +1,4 @@
-# Wlcome to My Github Profile
+# Welcome to My Github Profile
 I'm Vaishnavi Goyal
 
 🎓 BCA Student at Galgotias University
